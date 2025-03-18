@@ -1,8 +1,8 @@
 # Hello world!
 
-This is *History of Western Music 4* at Hanyang University.
+This is *History of Western Music 3* at Hanyang University.
 
-My name is **Hee Seng Kye**, and I am an Associate Professor in Musicology.
+My name is **Hee Seng Kye**, and I am an Associate Professor of Musicology.
 
 This is my first GitHub repository.
 
