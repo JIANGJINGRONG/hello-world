@@ -1,7 +1,7 @@
 # Hello world!
 
-This is a course on *Medical Humanities and Music* at Hanyang University.
+Studying in Korea from China,Interior Architecture and design　discipline at Hanyang University.
 
-My name is **Hee Seng Kye**, and I am an Associate Professor of Music.
+My name is **JIANGJINGRONG**
 
-This is my first GitHub repository.
+This is my GitHub repository.
